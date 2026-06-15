@@ -16,7 +16,7 @@ The following are **not included**:
 
 Those components were developed in a professional context and remain subject to **intellectual property rights** of the organization where that work was carried out. They cannot be published in this repository.
 
-What is shared here demonstrates data cleaning, feature construction, class-imbalance handling, and exploratory analysis on a standard open dataset.
+What is shared here demonstrates data cleaning, feature construction, class-imbalance handling, and exploratory analysis on an open dataset.
 
 ---
 
